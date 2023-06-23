@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rooshi-dhinaiya-mktv-390717",
+  "private_key_id": "517bbbe89202f098adea4ba22976c0d8d95b2297",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDBM3Ld1INOMIYw\nMIUna/ky5WTmy7QEGZfrsKDNU7r8KJPL1PHHicDSUCHkbS6/sgZdjdWbrYmcyP6Y\nVoMkeeENVpsaZawE8uNIfooycY4GUyioI6EmAwvd8wOwqOEFrHbOak4j7GX0GOyc\nKGa2ph2kIlD5awbSRBEEFK1MnQTLaHRKwsKIiBPmgwAUsN+aybNvx7x6iYHvFUUr\niAa6yxeMZEY0deD5sKMyqZ8SfwglgcLpsyfLs4qBg/T8/RbRrEE2ec9RBGYURNkN\n/LwArGEzAB3BCCBMaxOwDwcr+FtIBOXByEkWGTvknapsSOZ/cbBibF4R2PFha4Am\nWYr//YvxAgMBAAECggEAAN2H+rvan2tbDr4S+GBpKE9SqI3Zg2NwIabZZNe8xJtr\nIe/p+0P6amUzuqkf8BS0+F7ytgyDh6ZyCEtn8YlH7apLPh92ladNLnoc0AjE4Cpx\nrc4UeQYKpvb5+1iZm3X672JRp8pfcdIqs2l+ICsvLvyLnMZ16eAj87KnuRQI3yQS\nE0BEACjX8ecjNxsUqjr0aHhf4BsGIeERM/fW3a3ge6vGWqklHv03ogtxEBNmLvKp\n74JJ9zQuvEEMYCdRDV1h/KmsY8cC4ygHikAqYvG4jFhuo+/Iph/WU/7c2aJC+8aL\nxDydKB0DmMg18CPtseXATBpuyV2GhZDzkwktJv4fYQKBgQDohPDUYyi3paVIiydj\nsuV85FufUyPFvHc+7wcN/EnMwlhwwmhgUwr5mgv3Unl5XJDPrxtHL+KB1kmfQdr9\nRyzDjHz+uChdOGvBKCbLTpE2+bB1kof6RYDnr6N4V22QwruUShX6ng7A9reSvqiu\nUc2c/IiXpyRZBjKzoigwjxdiEQKBgQDUtg44qJ4MT/SPpgZYKMaJjVfya+QIbpFs\nsti0O/9quMggnrgsGFmkHkapVzn2yE2Q4OonaiY518FhiKKaBJ2ZRYoA64+RwR2y\nVZzU/64Q/yLmCPla3XsgADyqgGdz077sVXDVFg2PFfckLlxVuuFvcZ0L2pQF9txz\njmBf//+r4QKBgHOly3KXbyUISlDuhUTdMa8QlVGFNIGg31553HRkSwCAmSRcTTW7\nl/XVXKZCaxClrZDecx7Q/kO9pRiE1Lqsr+MC+Rhn2AuliFKl+cWc6jUBs3aGzwL3\nlsmlXhT4xxH9CPcUciIYgxYOn/doxNUO8slmAToMc9OjdYxK1tpwER1BAn95T1rM\n9V0tqGvRgN4daSPRTsrZdq6WIHjPhTARmiYQt1FrSRnADCMTdjDWYuir1ZBnD956\nnA8w7dtbxJD3Raqbvwz1eWJnvbsx+aF32FltWBSPHI8ZQzb1CS2QD6rwY9J+9jtj\nSzBwahaIi+gc/HeVFzZ5jC7fN+qB/LD6DwXBAoGAJUFyeVDEy204AhIsCCzlpKJB\n7YMdtRgP8lxWt0tQAw+AgO0UXvsajUS1ETGAeyQiTvqb4Pxbe5I++vJij4QLd383\nd0v8/pR6xkq4aUBW/gK8u79TvbYLm/gdmp79ZDfBNLqr/CQju/o5hidBdnF8Tiw5\ncjhhr4WJFXZCfjwF270=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service@rooshi-dhinaiya-mktv-390717.iam.gserviceaccount.com",
+  "client_id": "115620452415846575643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service%40rooshi-dhinaiya-mktv-390717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
